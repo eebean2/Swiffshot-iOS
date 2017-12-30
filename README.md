@@ -1,7 +1,7 @@
 # Swiffshot-iOS
 Social App that combined Facebook Live &amp; Snapchat
 
-Please note, this app is not mine. I worked on this application from Feb 2017 to May 2017, rewriting major parts of the application as the Senior Engineer.
+Please note, this app is not mine and no longer works. I worked on this application from Feb 2017 to May 2017, rewriting major parts of the application as the Senior Engineer.
 
 # Items I Built:
 
